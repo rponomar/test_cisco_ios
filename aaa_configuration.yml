@@ -1,0 +1,9 @@
+---
+#
+#This file is to configure AAA on Cisco Routers and Switches
+#
+
+  - name: configure aaa
+    iso_command:
+      commands:
+        - 
